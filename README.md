@@ -1,3 +1,5 @@
+Project I worked on for ECHacks 2017 in collaboration with sirdangd, arcaden, and Steven.
+
 # Geld
 
 Geld is a financing app that'll help you and your family make the best of your budgeting with incentives such as points and goals. Also with the sleek and easy to use ui, you will never have to fuss again about managing money for the whole family.
